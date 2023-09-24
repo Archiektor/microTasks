@@ -1,0 +1,10 @@
+.btn {
+    border: none;
+    border-radius: 5px;
+    padding: 0.75rem 1.15rem;
+    background-color: #41779d;
+    color: honeydew;
+    font-weight: 500;
+    font-size: 1.1rem;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.85);
+}
